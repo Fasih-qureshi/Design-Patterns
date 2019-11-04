@@ -7,7 +7,7 @@ package client;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public interface command {
     public void execute();
