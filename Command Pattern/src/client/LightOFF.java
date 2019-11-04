@@ -11,7 +11,7 @@ package client;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class LightOFF implements command {
     Light light;
