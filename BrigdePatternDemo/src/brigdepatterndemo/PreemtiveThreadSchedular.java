@@ -7,7 +7,7 @@ package brigdepatterndemo;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class PreemtiveThreadSchedular extends ThreadSchedular {
     PreemtiveThreadSchedular(Thread c) {
