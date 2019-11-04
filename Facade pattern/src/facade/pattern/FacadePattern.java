@@ -7,7 +7,7 @@ package facade.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class FacadePattern {
 
