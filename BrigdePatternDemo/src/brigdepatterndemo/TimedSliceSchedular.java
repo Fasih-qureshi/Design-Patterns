@@ -7,7 +7,7 @@ package brigdepatterndemo;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class TimedSliceSchedular extends ThreadSchedular{
     public TimedSliceSchedular(Thread c)
