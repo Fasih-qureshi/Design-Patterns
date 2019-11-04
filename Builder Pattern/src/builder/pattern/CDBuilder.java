@@ -7,7 +7,7 @@ package builder.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class CDBuilder {
     public CDType buildSonyCD() {
