@@ -7,7 +7,7 @@ package decorator.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class RedShapeDecorator extends ShapeDecorator{
     public RedShapeDecorator(Shape decoratedShape) {
