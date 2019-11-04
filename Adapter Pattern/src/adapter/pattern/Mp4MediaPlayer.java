@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class Mp4MediaPlayer implements AdvanceMediaPlayer{
     @Override
