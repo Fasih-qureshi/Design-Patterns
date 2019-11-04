@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class AudioPlayer implements MediaPlayer{
     MediaAdapter mediaAdapter; 
