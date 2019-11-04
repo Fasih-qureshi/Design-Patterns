@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public interface AdvanceMediaPlayer {
     public void playVlc(String fileName);
