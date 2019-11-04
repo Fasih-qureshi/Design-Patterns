@@ -7,7 +7,7 @@ package builder.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public interface Packing {
     public String pack();
