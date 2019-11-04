@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class MediaAdapter implements MediaPlayer {
     AdvanceMediaPlayer advancedMusicPlayer;
