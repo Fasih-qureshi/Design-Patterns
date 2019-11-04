@@ -7,7 +7,7 @@ package brigdepatterndemo;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public abstract class ThreadSchedular {
     protected Thread th;
