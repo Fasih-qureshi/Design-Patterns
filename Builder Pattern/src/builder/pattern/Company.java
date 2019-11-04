@@ -7,7 +7,7 @@ package builder.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public abstract class Company extends CD{
        public abstract int price(); 
