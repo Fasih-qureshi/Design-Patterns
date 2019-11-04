@@ -7,7 +7,7 @@ package decorator.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class Circle implements Shape{
     @Override
