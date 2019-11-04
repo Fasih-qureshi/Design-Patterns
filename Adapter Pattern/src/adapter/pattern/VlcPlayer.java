@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class VlcPlayer implements AdvanceMediaPlayer{
     @Override
