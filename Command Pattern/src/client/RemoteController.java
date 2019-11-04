@@ -7,7 +7,7 @@ package client;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class RemoteController {
     private command command;
