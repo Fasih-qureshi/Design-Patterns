@@ -7,7 +7,7 @@ package client;
 
 /**
  *
- * @author imran
+ * @author fasih
  */
 public class Light {
     private boolean on;
