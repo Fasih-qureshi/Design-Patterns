@@ -7,7 +7,7 @@ package brigdepatterndemo;
 
 /**
  *
- * @author imran
+ * @author fasih 
  */
 public interface Thread {
     public void preemtiveschedular();
